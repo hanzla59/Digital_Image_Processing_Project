@@ -135,7 +135,7 @@ project-root/
 
 ## 👨‍💻 **Author**
 
-[Hanzla Tahir]  
+Hanzla Tahir
 📧 *hanzalatahir45@gmail.com*  
 
 
